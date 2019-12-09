@@ -17,7 +17,7 @@ Yuexing Zhang - yz3676
 Aixuan Zhang - az2592
 
 
-Prerequists
+Prerequisites
 -------
 The prerequisites softwares are Python3 and Django web framework.
 
