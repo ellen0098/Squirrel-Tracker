@@ -72,8 +72,8 @@ We install it on our VM using the code below.
 The server links to the web application
 --------------
 #### Link to the sightings of squirrel:
-
+http://35.245.183.224/sightings/
 
 #### Link to the map of squirrels:
-
+http://35.245.183.224/map/
 
