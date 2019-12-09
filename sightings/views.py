@@ -20,7 +20,7 @@ def index(request):
 
 def squirrels_details(request, Unique_squirrel_id):
     squirrel = Squirrels.objects.get(id=Unique_squirrel_id)
-    return HttpResponse(f"hi,i'm {squirrel.Unique_squirrel_id}")
+    return HttpResponse(f"This is {squirrel.Unique_squirrel_id}")
 
 
 def update(request, squirrel_id):
