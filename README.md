@@ -5,7 +5,6 @@ Project background description
 ---------------
 This is a web application project developped with Django framework to keep track of all the known squirrels in Central Prak. We used dataset from the 2018 Central Park Squirrel Census. The users are allowed to add, update, and view squirrel data. 
 
-    located at: /sightings/management/commands/
 
 Main contributors
 -----------------
@@ -31,24 +30,24 @@ The applications provides the users with a map displaying the location of the sq
 
 ### Sightings
 
-##### View All Sightings
+#### View All Sightings
 All the sightings can be viewed at the main page and the user can get access to the detailed information about each sighting through the link of unique squirrel id.
 
-    located at: /sightings
+    located at: /sightings/
 
-##### Create New Sightings
+#### Create New Sightings
 A new spot creation can be made by each user by clicking the "New Spot Creation" button and then users can be firected to a new page to update the information.
 
     located at: /sightings/new/
     
     
-##### View Squirrel Statistics
+#### View Squirrel Statistics
 The Squirrel Status Summary can be viewed through the link below
  
     located at: /sightings/stats/
 
 
-##### Update Squirrel Sighting Data
+#### Update Squirrel Sighting Data
 Users can update sighting information about each squirrel sighting via the link listed at main page.
 
     located at: /sightings/<unique-squirrel-id>
