@@ -42,7 +42,7 @@ A new spot creation can be made by each user by clicking the "New Spot Creation"
     
     
 #### View Squirrel Statistics
-The Squirrel Status Summary can be viewed through the link below
+The Squirrel Status Summary can be viewed at main page through the link below.
  
     located at: /sightings/stats/
 
@@ -72,6 +72,7 @@ We install it on our VM using the code below.
 The server links to the web application
 --------------
 #### Link to the sightings of squirrel:
+
 
 #### Link to the map of squirrels:
 
